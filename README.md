@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henilx9
+- 👋 Hi, I’m henil
 - 👀 I’m interested in Angular and .NET
 - 🌱 I’m currently learning Angular Basics
 - 💞️ I’m looking to collaborate on .NET Core New Features
